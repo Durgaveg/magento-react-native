@@ -1,5 +1,6 @@
 export const magentoOptions = {
   url: 'https://www.durgaveg.com/',
+  store: '',
   home_cms_block_id: '58',
   authentication: {
     integration: {

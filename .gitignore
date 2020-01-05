@@ -58,9 +58,4 @@ buck-out/
 # CocoaPods
 /ios/Pods/
 
-# Magento configuration file
-src/config/magento.js
 
-coverage
-
-package-lock.json
